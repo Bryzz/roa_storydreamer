@@ -1,0 +1,83 @@
+Ground light
+	neutral - jab ->(connect) jab -> kick
+	up - coup de tête vers le haut, anti-air
+	down - poke de la hallebarde
+	forward - poke hallebarde
+	dash attack - shoulder bash
+Ground heavy
+	up - frappe de bas en haut sur un arc de cercle avec la hallebarde
+	down - attaque circulaire au sol avec la hallebarde
+	forward - petit bond en avant, frappant du haut vers le bas. Faible portée verticale
+Special
+	neutral - fait une charge en avant après un windup
+	up - fait un slash en diagonale avec la hallebarde, gagnant de la hauteur
+	down - fait un saut, puis descend avec sa hallebarde en pointe. Génère une onde de choc sur le sol
+	forward - dash en avant, puis frappe de sa hallebarde depuis le sol vers une diagonale haut
+Aerial light
+	neutral - spin de la hallebarde, multihit
+	up - frappe de la tête
+	down - kick vers le bas
+	forward - slash de la hallebarde vers l'avant, horizontal
+	back - slash de la hallebarde vers l'arrière, horizontal
+Aerial special - edits
+	neutral - retire tout le momentum, windup, tombe horizontalement avec sa hallebarde. S'arrête après une certaine distance. Au contact du sol, glisse sur une petite distance.
+	down - retire tout le momentum, windup, tombe verticalement avec sa hallebarde. Ne peut être arrêtée. Projecte sur les côtés. Au contact du sol, génère une petite onde de choc
+	forward - bond en avant, fais une frappe avec la hallebarde devant lui en arc de cercle, de bas en haut. Passe en freefall
+Taunt
+	Se tient droit, baisse la tête avec respect, puis se remet en position de combat
+
+jab
+dattack
+nspecial
+fspecial
+uspecial
+dspecial
+
+fstrong
+ustrong
+dstrong
+ftilt
+utilt
+dtilt
+nair
+fair
+bair
+dair
+uair
+
+taunt
+
+idle
+walk
+walkturn
+
+dash
+dashstart
+dashstop
+dashturn
+
+land
+landinglag
+waveland
+pratfall
+crouch
+tech
+roll_forward
+roll_backward
+parry
+
+jump
+jumpstart
+walljump
+	to align this sprite to the wall correctly, the origin should be 22px from the edge of the sprite
+doublejump
+
+airdodge
+
+hurt
+bighurt
+hurtground
+bouncehurt
+spinhurt
+uphurt
+downhurt
